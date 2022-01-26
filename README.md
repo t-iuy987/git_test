@@ -1,1 +1,1 @@
-This is  uorwa's first got project!
+This is  uorwa's first git project!
